@@ -1,0 +1,407 @@
+{
+ "lectures/comp0004-generics": {
+  "module": "COMP0004",
+  "moduleName": "Object-Oriented Programming",
+  "title": "Interfaces and generics",
+  "lecturer": "",
+  "date": "2026-10-16T12:00:00.000Z",
+  "createdAt": "2026-10-16T13:30:00.000Z"
+ },
+ "lectures/engf0029-eigen": {
+  "module": "ENGF0029",
+  "moduleName": "Mathematics for Engineering",
+  "title": "Eigenvalues and diagonalisation",
+  "lecturer": "",
+  "date": "2026-10-16T08:00:00.000Z",
+  "createdAt": "2026-10-16T13:30:00.000Z"
+ },
+ "lectures/engf0037-labbrief": {
+  "module": "ENGF0037",
+  "moduleName": "Applied Science and Experimentation",
+  "title": "Lab report briefing",
+  "lecturer": "",
+  "date": "2026-10-15T14:00:00.000Z",
+  "createdAt": "2026-10-16T13:30:00.000Z"
+ },
+ "lectures/comp0005-dijkstra": {
+  "module": "COMP0005",
+  "moduleName": "Algorithms",
+  "title": "Shortest paths: Dijkstra",
+  "lecturer": "",
+  "date": "2026-10-15T10:00:00.000Z",
+  "createdAt": "2026-10-16T13:30:00.000Z"
+ },
+ "lectures/engf0027-guest": {
+  "module": "ENGF0027",
+  "moduleName": "Engineering Projects & Skills",
+  "title": "Guest talk: working in engineering consulting",
+  "lecturer": "",
+  "date": "2026-10-13T13:00:00.000Z",
+  "createdAt": "2026-10-16T13:30:00.000Z"
+ },
+ "ratings/engf0029-eigen__seed-1": {
+  "lectureId": "engf0029-eigen",
+  "usefulness": 5,
+  "exam": "yes",
+  "content": "new",
+  "recorded": "yes",
+  "covered": "eigenvalues and eigenvectors from scratch, characteristic polynomial, then diagonalising a 3x3. the worked example at the end is basically a past paper question",
+  "announcements": "said diagonalisation comes up on the exam every year",
+  "createdAt": "2026-10-16T09:10:00.000Z"
+ },
+ "ratings/engf0029-eigen__seed-2": {
+  "lectureId": "engf0029-eigen",
+  "usefulness": 4,
+  "exam": "yes",
+  "content": "new",
+  "recorded": "yes",
+  "covered": "finding eigenvectors, when a matrix is diagonalisable (repeated eigenvalues edge case), A = PDP^-1",
+  "announcements": "problem sheet 4 is due next friday on moodle",
+  "createdAt": "2026-10-16T09:19:00.000Z"
+ },
+ "ratings/engf0029-eigen__seed-3": {
+  "lectureId": "engf0029-eigen",
+  "usefulness": 5,
+  "exam": "maybe",
+  "content": "new",
+  "recorded": "yes",
+  "covered": "diagonalisation and using it to compute A^n quickly. went fast in the last 15 min",
+  "announcements": "",
+  "createdAt": "2026-10-16T09:28:00.000Z"
+ },
+ "ratings/engf0029-eigen__seed-4": {
+  "lectureId": "engf0029-eigen",
+  "usefulness": 4,
+  "exam": "yes",
+  "content": "mix",
+  "recorded": "yes",
+  "covered": "first half was a determinants recap, second half was eigenvalues properly",
+  "announcements": "",
+  "createdAt": "2026-10-16T09:37:00.000Z"
+ },
+ "ratings/engf0029-eigen__seed-5": {
+  "lectureId": "engf0029-eigen",
+  "usefulness": 3,
+  "exam": "yes",
+  "content": "new",
+  "recorded": "unsure",
+  "covered": "lots of algebra on the board. the 3x3 example was only on the board, not on the slides",
+  "announcements": "",
+  "createdAt": "2026-10-16T09:46:00.000Z"
+ },
+ "ratings/engf0037-labbrief__seed-1": {
+  "lectureId": "engf0037-labbrief",
+  "usefulness": 2,
+  "exam": "no",
+  "content": "recap",
+  "recorded": "no",
+  "covered": "went over the lab report structure again, same as the moodle page",
+  "announcements": "deadline moved to 30 october",
+  "createdAt": "2026-10-15T15:10:00.000Z"
+ },
+ "ratings/engf0037-labbrief__seed-2": {
+  "lectureId": "engf0037-labbrief",
+  "usefulness": 2,
+  "exam": "no",
+  "content": "recap",
+  "recorded": "no",
+  "covered": "mostly admin. report format and referencing",
+  "announcements": "every graph now needs error bars or you lose marks, that part is new",
+  "createdAt": "2026-10-15T15:19:00.000Z"
+ },
+ "ratings/engf0037-labbrief__seed-3": {
+  "lectureId": "engf0037-labbrief",
+  "usefulness": 3,
+  "exam": "no",
+  "content": "mix",
+  "recorded": "unsure",
+  "covered": "report guidance plus examples of good vs bad figures",
+  "announcements": "deadline is now 30 oct",
+  "createdAt": "2026-10-15T15:28:00.000Z"
+ },
+ "ratings/comp0005-dijkstra__seed-1": {
+  "lectureId": "comp0005-dijkstra",
+  "usefulness": 4,
+  "exam": "maybe",
+  "content": "new",
+  "recorded": "yes",
+  "covered": "dijkstra with a priority queue, why it breaks with negative edges, runtime O(E log V)",
+  "announcements": "",
+  "createdAt": "2026-10-15T11:10:00.000Z"
+ },
+ "ratings/comp0005-dijkstra__seed-2": {
+  "lectureId": "comp0005-dijkstra",
+  "usefulness": 2,
+  "exam": "maybe",
+  "content": "mix",
+  "recorded": "yes",
+  "covered": "honestly the same as the textbook chapter. if you've read it you're fine",
+  "announcements": "",
+  "createdAt": "2026-10-15T11:19:00.000Z"
+ },
+ "ratings/comp0005-dijkstra__seed-3": {
+  "lectureId": "comp0005-dijkstra",
+  "usefulness": 3,
+  "exam": "maybe",
+  "content": "new",
+  "recorded": "yes",
+  "covered": "dijkstra walkthrough, started bellman-ford right at the end",
+  "announcements": "next week's lab builds on this",
+  "createdAt": "2026-10-15T11:28:00.000Z"
+ },
+ "ratings/comp0005-dijkstra__seed-4": {
+  "lectureId": "comp0005-dijkstra",
+  "usefulness": 4,
+  "exam": "yes",
+  "content": "new",
+  "recorded": "yes",
+  "covered": "dijkstra plus the proof of correctness. the proof was the hard bit",
+  "announcements": "",
+  "createdAt": "2026-10-15T11:37:00.000Z"
+ },
+ "ratings/engf0027-guest__seed-1": {
+  "lectureId": "engf0027-guest",
+  "usefulness": 2,
+  "exam": "no",
+  "content": "recap",
+  "recorded": "no",
+  "covered": "guest speaker about their career. nice but nothing assessed",
+  "announcements": "",
+  "createdAt": "2026-10-13T14:10:00.000Z"
+ },
+ "ratings/engf0027-guest__seed-2": {
+  "lectureId": "engf0027-guest",
+  "usefulness": 3,
+  "exam": "no",
+  "content": "recap",
+  "recorded": "no",
+  "covered": "career talk with some tips on getting internships",
+  "announcements": "",
+  "createdAt": "2026-10-13T14:19:00.000Z"
+ },
+ "ratings/engf0027-guest__seed-3": {
+  "lectureId": "engf0027-guest",
+  "usefulness": 1,
+  "exam": "no",
+  "content": "recap",
+  "recorded": "no",
+  "covered": "left halfway, nothing to do with the project",
+  "announcements": "",
+  "createdAt": "2026-10-13T14:28:00.000Z"
+ },
+ "reports/engf0029-eigen": {
+  "basis": "engf0029-eigen__seed-1@2026-10-16T09:10:00.000Z|engf0029-eigen__seed-2@2026-10-16T09:19:00.000Z|engf0029-eigen__seed-3@2026-10-16T09:28:00.000Z|engf0029-eigen__seed-4@2026-10-16T09:37:00.000Z|engf0029-eigen__seed-5@2026-10-16T09:46:00.000Z",
+  "report": {
+   "source": "claude",
+   "ratings_verdict": "lock_in",
+   "ratings_score": 78,
+   "verdict": "lock_in",
+   "sweat_score": 82,
+   "headline": "New exam material, and the worked example is basically a past paper question.",
+   "why": "Four of five people say it's on the exam, and the lecturer said diagonalisation comes up every year. Most of it was new.",
+   "covered": [
+    "Eigenvalues and eigenvectors from scratch, using the characteristic polynomial",
+    "When a matrix is diagonalisable, including the repeated-eigenvalue case",
+    "A = PDP⁻¹ and using it to compute Aⁿ quickly",
+    "A 3×3 worked example, done on the board only and not on the slides"
+   ],
+   "said_in_room": [
+    "Diagonalisation comes up on the exam every year",
+    "Problem sheet 4 is due next Friday on Moodle"
+   ],
+   "catch_up": [
+    {
+     "step": "Watch the Panopto recording on Moodle, especially the last 15 minutes, which went fast",
+     "minutes": 40
+    },
+    {
+     "step": "Get someone's board notes for the 3×3 example",
+     "minutes": 10
+    },
+    {
+     "step": "Start problem sheet 4",
+     "minutes": 45
+    }
+   ],
+   "disagreement": "",
+   "confidence": "high"
+  },
+  "generatedAt": "2026-10-16T13:30:00.000Z"
+ },
+ "reports/engf0037-labbrief": {
+  "basis": "engf0037-labbrief__seed-1@2026-10-15T15:10:00.000Z|engf0037-labbrief__seed-2@2026-10-15T15:19:00.000Z|engf0037-labbrief__seed-3@2026-10-15T15:28:00.000Z",
+  "report": {
+   "source": "claude",
+   "ratings_verdict": "chill",
+   "ratings_score": 31,
+   "verdict": "skim",
+   "sweat_score": 45,
+   "headline": "A dull admin briefing, but the deadline and the marking rules changed.",
+   "why": "Everyone rated it low and it mostly repeated the Moodle page. But two people say the deadline moved to 30 October, and graphs now need error bars or you lose marks.",
+   "covered": [
+    "The lab report structure, the same as on Moodle",
+    "Report format and referencing",
+    "Examples of good and bad figures"
+   ],
+   "said_in_room": [
+    "The lab report deadline moved to 30 October",
+    "Every graph now needs error bars or you lose marks"
+   ],
+   "catch_up": [
+    {
+     "step": "Put the new 30 October deadline in your calendar",
+     "minutes": 1
+    },
+    {
+     "step": "Add error bars to every graph in your report",
+     "minutes": 30
+    },
+    {
+     "step": "Skim the Moodle page on report format if you haven't yet",
+     "minutes": 10
+    }
+   ],
+   "disagreement": "",
+   "confidence": "medium"
+  },
+  "generatedAt": "2026-10-16T13:30:00.000Z"
+ },
+ "reports/comp0005-dijkstra": {
+  "basis": "comp0005-dijkstra__seed-1@2026-10-15T11:10:00.000Z|comp0005-dijkstra__seed-2@2026-10-15T11:19:00.000Z|comp0005-dijkstra__seed-3@2026-10-15T11:28:00.000Z|comp0005-dijkstra__seed-4@2026-10-15T11:37:00.000Z",
+  "report": {
+   "source": "claude",
+   "ratings_verdict": "skim",
+   "ratings_score": 59,
+   "verdict": "skim",
+   "sweat_score": 55,
+   "headline": "Mostly new material, but it follows the textbook closely.",
+   "why": "Three of four found it new, and one says the textbook chapter covers it. Only one person is sure it's on the exam, and next week's lab builds on it.",
+   "covered": [
+    "Dijkstra's algorithm with a priority queue",
+    "Why it breaks with negative edge weights",
+    "Running time of O(E log V)",
+    "The proof of correctness, which people found the hardest part",
+    "A first look at Bellman-Ford at the very end"
+   ],
+   "said_in_room": [
+    "Next week's lab builds on this lecture"
+   ],
+   "catch_up": [
+    {
+     "step": "Read the textbook chapter on Dijkstra",
+     "minutes": 25
+    },
+    {
+     "step": "Watch the proof of correctness in the Panopto recording on Moodle",
+     "minutes": 20
+    },
+    {
+     "step": "Trace Dijkstra by hand on a small graph before the lab",
+     "minutes": 15
+    }
+   ],
+   "disagreement": "One person said it was just the textbook chapter, while the others found it new.",
+   "confidence": "medium"
+  },
+  "generatedAt": "2026-10-16T13:30:00.000Z"
+ },
+ "reports/engf0027-guest": {
+  "basis": "engf0027-guest__seed-1@2026-10-13T14:10:00.000Z|engf0027-guest__seed-2@2026-10-13T14:19:00.000Z|engf0027-guest__seed-3@2026-10-13T14:28:00.000Z",
+  "report": {
+   "source": "claude",
+   "ratings_verdict": "chill",
+   "ratings_score": 20,
+   "verdict": "chill",
+   "sweat_score": 15,
+   "headline": "A careers talk with nothing assessed. Safe to skip.",
+   "why": "Everyone rated it 3 or below and nobody thinks it's on the exam. It wasn't recorded, but there's nothing to catch up on.",
+   "covered": [
+    "A guest speaker on their career in engineering consulting",
+    "Tips on getting internships"
+   ],
+   "said_in_room": [],
+   "catch_up": [
+    {
+     "step": "Nothing needed. Ask a friend for the internship tips if you're interested",
+     "minutes": 5
+    }
+   ],
+   "disagreement": "",
+   "confidence": "medium"
+  },
+  "generatedAt": "2026-10-16T13:30:00.000Z"
+ },
+ "modules/ENGF0029": {
+  "basis": "engf0029-eigen__seed-1@2026-10-16T09:10:00.000Z|engf0029-eigen__seed-2@2026-10-16T09:19:00.000Z|engf0029-eigen__seed-3@2026-10-16T09:28:00.000Z|engf0029-eigen__seed-4@2026-10-16T09:37:00.000Z|engf0029-eigen__seed-5@2026-10-16T09:46:00.000Z",
+  "digest": {
+   "source": "claude",
+   "exam": [
+    {
+     "text": "Diagonalisation comes up on the exam every year.",
+     "lecture_id": "engf0029-eigen"
+    },
+    {
+     "text": "The 3×3 worked example at the end is basically a past paper question.",
+     "lecture_id": "engf0029-eigen"
+    }
+   ],
+   "deadlines": [
+    {
+     "text": "Problem sheet 4 is due next Friday on Moodle.",
+     "lecture_id": "engf0029-eigen"
+    }
+   ],
+   "other": [
+    {
+     "text": "The 3×3 example was only done on the board, not on the slides.",
+     "lecture_id": "engf0029-eigen"
+    }
+   ]
+  },
+  "generatedAt": "2026-10-16T13:55:00.000Z"
+ },
+ "modules/ENGF0037": {
+  "basis": "engf0037-labbrief__seed-1@2026-10-15T15:10:00.000Z|engf0037-labbrief__seed-2@2026-10-15T15:19:00.000Z|engf0037-labbrief__seed-3@2026-10-15T15:28:00.000Z",
+  "digest": {
+   "source": "claude",
+   "exam": [],
+   "deadlines": [
+    {
+     "text": "The lab report deadline moved to 30 October.",
+     "lecture_id": "engf0037-labbrief"
+    },
+    {
+     "text": "Every graph now needs error bars, or you lose marks.",
+     "lecture_id": "engf0037-labbrief"
+    }
+   ],
+   "other": []
+  },
+  "generatedAt": "2026-10-16T13:55:00.000Z"
+ },
+ "modules/COMP0005": {
+  "basis": "comp0005-dijkstra__seed-1@2026-10-15T11:10:00.000Z|comp0005-dijkstra__seed-2@2026-10-15T11:19:00.000Z|comp0005-dijkstra__seed-3@2026-10-15T11:28:00.000Z|comp0005-dijkstra__seed-4@2026-10-15T11:37:00.000Z",
+  "digest": {
+   "source": "claude",
+   "exam": [],
+   "deadlines": [],
+   "other": [
+    {
+     "text": "Next week's lab builds on the Dijkstra lecture.",
+     "lecture_id": "comp0005-dijkstra"
+    }
+   ]
+  },
+  "generatedAt": "2026-10-16T13:55:00.000Z"
+ },
+ "modules/ENGF0027": {
+  "basis": "engf0027-guest__seed-1@2026-10-13T14:10:00.000Z|engf0027-guest__seed-2@2026-10-13T14:19:00.000Z|engf0027-guest__seed-3@2026-10-13T14:28:00.000Z",
+  "digest": {
+   "source": "claude",
+   "exam": [],
+   "deadlines": [],
+   "other": []
+  },
+  "generatedAt": "2026-10-16T13:55:00.000Z"
+ }
+}

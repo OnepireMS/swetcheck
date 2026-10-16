@@ -1,0 +1,17 @@
+{
+  "name": "sweatcheck",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lecture ratings from people who went, so people who skipped know whether to lock in.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "reset": "node server.js --reset"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
